@@ -1,0 +1,1 @@
+It is a browserified version of the package MQTT.js
